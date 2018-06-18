@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * Write a description of class log here.
 
- * This code is written to perform a log operation without using in built log function using for loop.
+ * This code is written to perform a log operation without using in built log function using for loop till 0.1 precision.
  
  * @author (Rishit Dagli) 
  * @version (18-06-2018)
